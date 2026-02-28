@@ -1,6 +1,0 @@
-[submodule "src/velodyne_simulator"]
-	path = src/velodyne_simulator
-	url = ./src/velodyne_simulator
-[submodule "yolov5"]
-	path = yolov5
-	url = ./yolov5
